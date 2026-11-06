@@ -1,0 +1,10 @@
+# Java compilation outputs
+*.class
+/out/
+/bin/
+/build/
+/target
+
+# IntelliJ local project setting
+/.idea/
+*.iml
