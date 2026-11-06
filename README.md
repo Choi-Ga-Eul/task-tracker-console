@@ -75,7 +75,19 @@ Task Tracker는 해야 할 일을 등록하고, 완료 여부와 진행 상황�
 ---
 
 ## 4. Getting Started Task Tracker
+### 4-1. Installation
+```shell
+git clone https://github.com/Choi-Ga-Eul/task-tracker-console.git
+```
 
+### 4-2. Build
+```shell
+javac -encoding UTF-8 -d out src/TaskTracker.java
+```
+### 4-3. Run
+```shell
+java -cp out TaskTracker
+```
 ## 5. Task Tracker Usage
 
 ## 6. Task Tracker Project Structure
